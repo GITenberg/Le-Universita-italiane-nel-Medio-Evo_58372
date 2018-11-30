@@ -1,11 +1,16 @@
 _repo: Le-Universita-italiane-nel-Medio-Evo_58372
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58372-h/images/cover.jpg
 creator:
   author:
     agent_name: Coppi, Ettore
     gutenberg_agent_id: '49916'
     url: http://www.gutenberg.org/2009/agents/49916
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58372#Le-Universita-italiane-nel-Medio-Evo
 gutenberg_issued: '2018-11-28'
 gutenberg_type: Text
 identifiers:
